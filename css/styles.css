@@ -21,11 +21,15 @@ body {
 
 .about-me-img {
   max-width: 100%;
+  margin: 10px 0 0 0;
+  border: 2px solid crimson;
 }
 
 
 .main-img {
   max-width: 100%;
+  border: 2px solid darkgreen;
+  padding: 20px;
 }
 
 .body-imgs {
@@ -44,8 +48,8 @@ body {
 
 .img-text {
   position: absolute;
-  top: 8px;
-  left: 32px;
+  top: 16px;
+  left: 44px;
   font-size: 300%;
 }
 
