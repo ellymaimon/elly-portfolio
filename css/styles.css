@@ -83,3 +83,9 @@ span {
   border: 1px dashed darkgrey;
   margin: 40px auto 40px auto;
 }
+
+.footer img {
+  margin: 10px;
+  width: 50px;
+  height: 50px;
+}
