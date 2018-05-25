@@ -3,9 +3,12 @@ body {
   background-repeat: repeat;
   background-size: 500px;
 }
+
 .jumbotron{
-  background-color: lightgrey;
+  background-color: #e0fff5;
   margin-top: 20px;
+  border: 2px solid #6aa390;
+  border-radius: 15px;
   padding: 20px;
 }
 
@@ -19,13 +22,18 @@ body {
   max-width: 100%;
 }
 
-.main-img:hover {
-  filter: grayscale(100%);
-}
-
 .body-imgs {
   position: relative;
   text-align: center;
+}
+
+.body-imgs a {
+  color: white;
+}
+
+.body-imgs:hover {
+  filter: grayscale(100%);
+  font-weight: bold;
 }
 
 .img-text {
@@ -33,24 +41,6 @@ body {
   top: 8px;
   left: 32px;
   font-size: 300%;
-}
-
-#img-left-text {
-  color: white;
-}
-
-#img-left-text:hover {
-  color: lightblue;
-  font-weight: bold;
-}
-
-#img-right-text {
-  color: white;
-}
-
-#img-right-text:hover {
-  color: darkblue;
-  font-weight: bold;
 }
 
 .footer {
