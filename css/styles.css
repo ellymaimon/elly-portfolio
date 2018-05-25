@@ -45,6 +45,15 @@ body {
   color: crimson;
 }
 
+.github-a {
+  color: olive;
+}
+
+.github-a:hover {
+  text-decoration: none;
+  color: lightgreen;
+}
+
 span {
   font-weight: bold;
 }
