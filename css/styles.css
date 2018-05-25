@@ -6,7 +6,7 @@
   filter: grayscale(100%);
 }
 
-.project {
+.body-imgs {
     position: relative;
     text-align: center;
     color: white;
@@ -15,5 +15,6 @@
 .img-text {
     position: absolute;
     top: 8px;
-    left: 16px;
+    left: 32px;
+    font-size: 200%;
 }
