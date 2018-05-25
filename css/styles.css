@@ -2,6 +2,7 @@ body {
   background-image: url("../img/camping.jpg");
   background-repeat: repeat;
   background-size: 500px;
+  font-family: 'Roboto', sans-serif;
 }
 
 .jumbotron{
@@ -23,6 +24,14 @@ body {
 }
 
 .homelink {
+  background-color: #e0fff5;
+  border: 2px solid #6aa390;
+  border-left: 0;
+  float: right;
+  padding: 10px;
+}
+
+.homelink2 {
   background-color: #e0fff5;
   border: 2px solid #6aa390;
   float: right;
