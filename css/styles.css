@@ -12,6 +12,10 @@ body {
   padding: 20px;
 }
 
+.jumbotron h1 {
+  font-family: 'Righteous', cursive;
+}
+
 .other-welcome {
   margin-right: 0;
   max-width: 800px;
