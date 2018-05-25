@@ -86,8 +86,8 @@ span {
 
 .footer {
   border: 1px dashed darkgrey;
-  margin: 40px auto 40px auto;
-  padding: 20px;
+  margin: 20px auto 20px auto;
+  padding: 5px 10px 10px 10px;
 }
 
 .footer img {
@@ -98,10 +98,11 @@ span {
 }
 
 .footer-h4 {
+  font-size: 20px;
   max-width: 250px;
   display: inline-block;
   margin-right: 20px;
-  margin-top: 12px;
+  margin-top: 18px;
   margin-bottom: 0px;
 }
 
