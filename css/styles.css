@@ -77,15 +77,27 @@ span {
   border: 2px solid crimson;
 }
 
+#info-row {
+  margin-bottom: 40px;
+}
+
 #h3bg-info {
   width: 100%;
   margin-bottom: 20px;
+  font-weight: bold;
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+  padding: 15px;
 }
 
 #h3hobbies {
   width: 100%;
   margin-bottom: 20px;
   margin-top: 20px;
+  font-weight: bold;
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+  padding: 15px;
 }
 
 .main-img {
