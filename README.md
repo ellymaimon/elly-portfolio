@@ -6,7 +6,7 @@
 
 ## Description
 
-_{This is a multi-page website consisting of a homepage, a portfolio projects page, and an about me page, each with details about their respective categories. The site is a showcase of HTML, CSS, Git, and Bootstrap}_
+_This is a multi-page website consisting of a homepage, a portfolio projects page, and an about me page, each with details about their respective categories. The site is a showcase of HTML, CSS, Git, and Bootstrap_
 
 ## Setup/Installation Requirements
 
@@ -15,22 +15,22 @@ _{This is a multi-page website consisting of a homepage, a portfolio projects pa
 * _To see the github repository for this site, simply load the following URL:_
 * _https://github.com/ellymaimon/elly-portfolio_
 
-_{No installation requirements}_
+_No installation requirements_
 
 ## Known Bugs
 
-_{No known bugs at this time.}_
+_No known bugs at this time._
 
 ## Support and contact details
 
-_{If you have an issues or questions, please contact Elly Maimon at eliranmaimon@gmail.com}_
+_If you have an issues or questions, please contact Elly Maimon at eliranmaimon@gmail.com_
 
 ## Technologies Used
 
-_{This website is written in HTML and CSS, and utilizes the Bootstrap CSS framework. It also utilizes a git repository to store commit history and to host the page.}_
+_This website is written in HTML and CSS, and utilizes the Bootstrap CSS framework. It also utilizes a git repository to store commit history and to host the page._
 
 ### License
 
-*{This software is licensed under the MIT license.}*
+*This software is licensed under the MIT license.*
 
-Copyright (c) 2018 **_{Elly Maimon}_**
+Copyright (c) 2018 **_Elly Maimon_**
