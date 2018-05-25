@@ -19,6 +19,10 @@ body {
   background-color: #effffb;
 }
 
+.about-me-img {
+  max-width: 100%;
+}
+
 .main-img {
   max-width: 100%;
 }
