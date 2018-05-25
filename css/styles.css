@@ -28,10 +28,15 @@
 }
 
 #img-right-text {
-  color: darkgrey;
+  color: white;
 }
 
 #img-right-text:hover {
   color: darkblue;
   font-weight: bold;
+}
+
+.footer {
+  border: 1px dashed darkgrey;
+  margin: 40px auto 40px auto;
 }
