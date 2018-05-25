@@ -7,14 +7,31 @@
 }
 
 .body-imgs {
-    position: relative;
-    text-align: center;
-    color: white;
+  position: relative;
+  text-align: center;
 }
 
 .img-text {
-    position: absolute;
-    top: 8px;
-    left: 32px;
-    font-size: 200%;
+  position: absolute;
+  top: 8px;
+  left: 32px;
+  font-size: 300%;
+}
+
+#img-left-text {
+  color: white;
+}
+
+#img-left-text:hover {
+  color: lightblue;
+  font-weight: bold;
+}
+
+#img-right-text {
+  color: darkgrey;
+}
+
+#img-right-text:hover {
+  color: darkblue;
+  font-weight: bold;
 }
