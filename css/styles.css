@@ -12,6 +12,10 @@ body {
   padding: 20px;
 }
 
+#main-welcome {
+  padding-top: 30px;
+}
+
 .project-box{
   margin: 0 20px 20px 20px;
   border: 1px solid black;
