@@ -19,12 +19,19 @@ body {
   background-color: #effffb;
 }
 
+span {
+  font-weight: bold;
+}
+
 .about-me-img {
   max-width: 100%;
   margin: 10px 0 0 0;
   border: 2px solid crimson;
 }
 
+#h3hobbies {
+  width: 100%;
+}
 
 .main-img {
   max-width: 100%;
