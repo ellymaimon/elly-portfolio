@@ -105,14 +105,14 @@ span {
 
 .body-imgs:hover {
   filter: grayscale(100%);
-  font-weight: bold;
 }
 
 .img-text {
   position: absolute;
-  top: 16px;
+  top: 24px;
   left: 44px;
-  font-size: 300%;
+  font-size: 270%;
+  font-family: 'Righteous', cursive;
 }
 
 .footer {
