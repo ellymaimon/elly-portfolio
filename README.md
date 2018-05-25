@@ -11,7 +11,7 @@ _This is a multi-page website consisting of a homepage, a portfolio projects pag
 ## Setup/Installation Requirements
 
 * _To see this website, simply launch the following URL in your browser:_
-* _ellymaimon.github.io/elly-portfolio_
+* _https://ellymaimon.github.io/elly-portfolio_
 * _To see the github repository for this site, simply load the following URL:_
 * _https://github.com/ellymaimon/elly-portfolio_
 
